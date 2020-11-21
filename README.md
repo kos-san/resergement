@@ -50,4 +50,4 @@
 - belongs_to :store
 
 # ER図
-[![ ](ER1.png)]
+!(ER1.png)
